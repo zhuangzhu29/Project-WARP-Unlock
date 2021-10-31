@@ -4,8 +4,8 @@ source /etc/profile
 
 # Variation
 Interface=wg
-Region=hk
-Hostname=
+Region=sg
+Hostname=123
 Telegram_Token=
 Telegram_ChatID=
 Count=0
